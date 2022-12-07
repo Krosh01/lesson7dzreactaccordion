@@ -1,0 +1,126 @@
+{
+    "catalog": [
+        {
+            "id": 1,
+            "title": "george gina lucy",
+            "price": 10,
+            "category": "shoes",
+            "img": ["./catalog/shoes/1_3.jpg","./catalog/shoes/2_4.jpg","./catalog/shoes/2_4.jpg"],
+            "sizes": [
+                {"id": 1, "size": 35, "inStock": 5},
+                {"id": 2, "size": 36, "inStock": 2},
+                {"id": 3, "size": 37, "inStock": 3},
+                {"id": 4, "size": 38, "inStock": 1},
+                {"id": 5, "size": 39, "inStock": 7}
+            ],
+            "review": [],
+            "brand": "nike",
+            "gender": "men"
+        },
+        {
+            "id": 2,
+            "title": "Nike Jordan Air",
+            "price": 20,
+            "category": "shoes",
+            "img": ["./catalog/shoes/2_4.jpg","./catalog/shoes/2_4.jpg","./catalog/shoes/2_4.jpg"],
+            "sizes": [
+              {
+                "id": 1,
+                "size": 38,
+                "inStock": 3
+              },
+              {
+                "id": 2,
+                "size": 39,
+                "inStock": 0
+              },
+              {
+                "id": 3,
+                "size": 40,
+                "inStock": 3
+              },
+              {
+                "id": 4,
+                "size": 41,
+                "inStock": 2
+              },
+              {
+                "id": 5,
+                "size": 42,
+                "inStock": 5
+              }
+            ],
+            "review": [],
+            "brand": "Nike",
+            "gender": "men"
+          },
+          {
+            "id": 3,
+            "title": "george gina lucy",
+            "price": 30,
+            "category": "shoes",
+            "img": ["./catalog/shoes/3_1.jpg","./catalog/shoes/3_1.jpg","./catalog/shoes/3_1.jpg"],
+            "sizes": [
+                {"id": 1, "size": 99, "inStock": 1},
+                {"id": 2, "size": 66, "inStock": 2},
+                {"id": 3, "size": 37, "inStock": 3},
+                {"id": 4, "size": 34, "inStock": 4},
+                {"id": 5, "size": 45, "inStock": 5}
+            ],
+            "review": [],
+            "brand": "puma",
+            "gender": "woman"
+          },
+          {
+            "id": 4,
+            "title": "george gina lucy",
+            "price": 40,
+            "category": "shoes",
+            "img": ["./catalog/shoes/3_2.jpg","./catalog/shoes/3_2.jpg","./catalog/shoes/3_2.jpg"],
+            "sizes": [
+                {"id": 1, "size": 10, "inStock": 1},
+                {"id": 2, "size": 20, "inStock": 2},
+                {"id": 3, "size": 30, "inStock": 3},
+                {"id": 4, "size": 40, "inStock": 4},
+                {"id": 5, "size": 50, "inStock": 5}
+            ],
+            "review": [],
+            "brand": "puma",
+            "gender": "men"
+          },
+          {
+            "id": 5,
+            "title": "george gina lucy",
+            "price": 50,
+            "category": "shoes",
+            "img": ["./catalog/shoes/3_2.jpg","./catalog/shoes/3_2.jpg","./catalog/shoes/3_2.jpg"],
+            "sizes": [
+                {"id": 1, "size": 0, "inStock": 1},
+                {"id": 2, "size": 8, "inStock": 2},
+                {"id": 3, "size": 4, "inStock": 3},
+                {"id": 4, "size": 9, "inStock": 4},
+                {"id": 5, "size": 34, "inStock": 5}
+            ],
+            "review": [],
+            "brand": "puma",
+            "gender": "men"
+          },
+          {
+            "id": 6,
+            "title": "george gina lucy",
+            "price": 60,
+            "category": "shoes",
+            "img": ["./catalog/shoes/3_2.jpg","./catalog/shoes/3_2.jpg","./catalog/shoes/3_2.jpg"],
+            "sizes": [
+                {"id": 1, "size": 0, "inStock": 1},
+                {"id": 2, "size": 2, "inStock": 2},
+                {"id": 3, "size": 7, "inStock": 3},
+                {"id": 4, "size": 37, "inStock": 4},
+                {"id": 5, "size": 89, "inStock": 5}
+            ],
+            "review": [],
+            "brand": "puma",
+            "gender": "woman"
+          }
+    ]
+}

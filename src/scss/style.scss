@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: 'Cormorant', serif;
+}
+
+.container{
+  max-width: 1374px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.container-small{
+  max-width: 1137px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+@import "header";
+@import "begin";
+@import "collection";
+@import "popular";
+@import "about";
+@import "footer";
+@import "breadCrumbs";
+@import "catalog";
+@import "sideBar";
+@import "catalogRow";
+@import "choseSettings";
+@import "catalogFilter";
+@import "popularQuestions";

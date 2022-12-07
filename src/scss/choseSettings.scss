@@ -1,0 +1,23 @@
+.choseSettings {
+    
+    &__select {
+        position: relative;
+        border: 1px solid #EAE9E8;
+        outline: none;
+        border-radius: 8px;
+        width: 185px;
+        height: 40px;
+        appearance: none;
+        &::before {
+            content: "as";
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            font-size: larger;
+        }
+    }
+    &__item {
+        border: none;
+    }
+}
